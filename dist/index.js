@@ -6,6 +6,6 @@ function sayHello() {
 }
 exports.sayHello = sayHello;
 function sayHello2() {
-    console.log("Hello World");
+    console.log("Hello scott");
 }
 exports.sayHello2 = sayHello2;
